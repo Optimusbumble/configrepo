@@ -4,6 +4,6 @@ my:
     values: one,2,3,4
 
 db:
-  connection:from config server
-  host:localhost
-  port:2234
+  connection: from config server
+  host: localhost
+  port: 2234
