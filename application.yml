@@ -1,0 +1,9 @@
+my:
+  greeting: test
+  list:
+    values: one,2,3,4
+
+db:
+  connection:from config server
+  host:localhost
+  port:2234
